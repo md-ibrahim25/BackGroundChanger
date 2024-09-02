@@ -44,10 +44,6 @@ To run this project locally, follow these steps:
 - Click on the "Change Background" button to change the background color of the webpage.
 - Every click generates a new random color.
 
-## 🖼️ Screenshot
-
-*Include a screenshot here to showcase your application.*
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/BGChanger/issues) if you want to contribute.
